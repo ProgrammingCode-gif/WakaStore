@@ -4,7 +4,7 @@ const catalogKeyboard = {
     reply_markup: JSON.stringify({
         keyboard: [
             [{ text: "WAKA" }, { text: "ELFBAR" }, { text: "Подики" }],
-            [{ text: "Жидкости" }, { text: "Расходники" }],
+            [{ text: "Жидкости" }, {text: "HSD"}, { text: "Расходники" }],
             [{ text: "Никотиновые конфеты" }, { text: "Снюс" }],
             [{ text: "Назад" }]
         ],
