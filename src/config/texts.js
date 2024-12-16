@@ -30,12 +30,14 @@ const texts = {
 📦 Доставка по Алматы
 
 Спасибо, что выбираете WAKA STORE! 💨`,
-    productText: (title, price) => {
+    productText: (title, price, description) => {
         return `
 💨 ${title}
 💵 Цена: ${price}
 ✔️ Долгий ресурс
 ✔️ Широкий выбор вкусов
+
+${description}
         
 📩 Как заказать?
     WhatsApp: https://wa.me/998500251948

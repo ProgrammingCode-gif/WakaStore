@@ -25,7 +25,7 @@ async function sendMessagesWithDelay(products, chatId, bot) {
 
         const photoPath = path.resolve(__dirname, `../../public/images/${products[i].image}`)
         
-        await bot.sendPhoto(chatId, photoPath, {caption: texts.productText(products[i].title, products[i].price)});
+        await bot.sendPhoto(chatId, photoPath, {caption: texts.productText(products[i].title, products[i].price, products[i].description)});
         await delay(200);
     }
 }
