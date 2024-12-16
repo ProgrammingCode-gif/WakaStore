@@ -36,9 +36,9 @@ const texts = {
 💵 Цена: ${price}
 ✔️ Долгий ресурс
 ✔️ Широкий выбор вкусов
-
+${description ? `
 ${description}
-        
+` : ''}
 📩 Как заказать?
     WhatsApp: https://wa.me/998500251948
     Telegram: @WakastoreVi
