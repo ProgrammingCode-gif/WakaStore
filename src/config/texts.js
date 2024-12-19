@@ -26,7 +26,7 @@ const texts = {
 • Напишите нам в WhatsApp: https://wa.me/998500251948
 • Или в Telegram: @WakastoreVi
     
-📢 Telegram канал: https://t.me/wakastorewakaalmaty
+📢 Telegram канал: https://t.me/TABACHKAlshop
 📦 Доставка по Алматы
 
 Спасибо, что выбираете WAKA STORE! 💨`,
@@ -43,7 +43,7 @@ ${description}
     WhatsApp: https://wa.me/998500251948
     Telegram: @WakastoreVi
 
-📢 Telegram канал: https://t.me/wakastorewakaalmaty
+📢 Telegram канал: https://t.me/TABACHKAlshop
 🔸 WAKA STORE — стиль и комфорт для тебя!`
     }
 }
