@@ -5,7 +5,7 @@ const catalogKeyboard = {
         keyboard: [
             [{ text: "WAKA" }, { text: "ELFBAR" }, { text: "Подики" }],
             [{ text: "Жидкости" }, {text: "HSD"}, { text: "Расходники" }],
-            [{ text: "Никотиновые конфеты" }, { text: "Снюс" }],
+            [{ text: "Никотиновые конфеты" }, { text: "Снюс" }, {text: "Вейпы"}],
             [{ text: "Назад" }]
         ],
         resize_keyboard: true
