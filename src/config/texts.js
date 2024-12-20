@@ -24,7 +24,7 @@ const texts = {
     
 📩 Как заказать?
 • Напишите нам в WhatsApp: https://wa.me/998500251948
-• Или в Telegram: @vapeiodnorazkialmaty
+• Или в Telegram: @selerkz
     
 📢 Telegram канал: https://t.me/TABACHKAlshop
 📦 Доставка по Алматы
@@ -41,7 +41,7 @@ ${description}
 ` : ''}
 📩 Как заказать?
     WhatsApp: https://wa.me/998500251948
-    Telegram: @vapeiodnorazkialmaty
+    Telegram: @selerkz
 
 📢 Telegram канал: https://t.me/TABACHKAlshop
 🔸 WAKA STORE — стиль и комфорт для тебя!`
