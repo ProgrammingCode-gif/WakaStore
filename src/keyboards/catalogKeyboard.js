@@ -4,9 +4,11 @@ const catalogKeyboard = {
     reply_markup: JSON.stringify({
         keyboard: [
             [{ text: "WAKA" }, { text: "ELFBAR" }, { text: "Подики" }],
-            [{ text: "Жидкости" }, {text: "HSD"}, { text: "Расходники" }],
-            [{ text: "Никотиновые конфеты" }, { text: "Снюс" }, {text: "Вейпы"}],
-            [{ text: "Назад" }]
+            [{ text: "Solobar" }, {text: "HSD"}, { text: "Masking" }],
+            [{ text: "Никотиновые конфеты" }, { text: "Снюс" }, {text: "Расходники"}],
+            [{ text: "Boshki" }, {text: "Husky"}, {text: "Head hunter"}],
+            [{ text: "Jumbo" }, {text: "Ice paradise"}, {text: "Maxwells"}],
+            [{ text: 'Glitch'}, { text: "Jam monster"}, { text: "Назад" }]
         ],
         resize_keyboard: true
     })
